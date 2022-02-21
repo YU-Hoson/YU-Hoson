@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![YU-Hoson's GitHub stats](https://github-readme-stats.vercel.app/api?username=/YU-Hoson)](https://github.com/YU-Hoson/github-readme-stats)
+[![YU-Hoson's GitHub stats](https://github-readme-stats.vercel.app/api?username=YU-Hoson)](https://github.com/YU-Hoson/github-readme-stats)
 <!--
 **YU-Hoson/YU-Hoson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
